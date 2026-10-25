@@ -176,7 +176,7 @@ Machine-readable: https://frameanyphoto.com/.well-known/policies.json
 
 ## About this repository
 
-This repository documents the hosted FrameAnyPhoto MCP server and includes small client examples. The server itself runs at `https://frameanyphoto.com/mcp`, so there is nothing to install or host.
+This repository documents the hosted FrameAnyPhoto MCP server, publishes its TypeScript source in [`src/`](src/) (the JSON-RPC handler, tool schemas and order tools) and includes small client examples. The server itself runs at `https://frameanyphoto.com/mcp`, so there is nothing to install or host.
 
 ## Contact
 
